@@ -29,6 +29,7 @@ $ npm run start:prod
 
 ```bash
 # Typescript
+# Javascript
 # NodeJS
 # NestJS
 ```
