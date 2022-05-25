@@ -3,8 +3,9 @@
 </p>
 
 ## Descrição
-
+```bash
 CRUD de usuários com e-mail, nome e senha.
+```
 
 ## Instalação
 
